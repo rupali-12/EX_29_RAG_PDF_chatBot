@@ -1,4 +1,4 @@
-# RAG Document QA Application
+# Conversational Q&A Chatbot- Chat With Pdf Along With Chat History2 lectures
 
 # Github Link
 
@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK](https://ex28ragdocapp-jvuaesigme82sj3f3qzj26.streamlit.app/)
+[DEPLOYED_LINK](https://ex29ragpdfchatbot-9wyrsmlhdxuwujnwaqguvf.streamlit.app/)
