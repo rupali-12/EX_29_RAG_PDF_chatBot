@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-chroma
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+python-dotenv
