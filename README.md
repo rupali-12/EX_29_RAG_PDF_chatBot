@@ -2,7 +2,7 @@
 
 # Github Link
 
-[GITHUB_LINK](https://github.com/rupali-12/Ex_28_RAG_Doc_QA)
+[GITHUB_LINK](https://github.com/rupali-12/EX_29_RAG_PDF_chatBot)
 
 # Deployed Link
 
