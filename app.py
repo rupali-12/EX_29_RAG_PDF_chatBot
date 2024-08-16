@@ -22,7 +22,7 @@ st.write("Upload PDFs and chat with their content")
 # Input the Groq API Key
 api_key = st.text_input("Enter your Groq API key:", type="password")
 
-# Check if Groq API key is provided
+# Check if Groq API key is provided or not
 if api_key:
     llm = ChatGroq(groq_api_key=api_key, model_name="Gemma2-9b-It")
 
