@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK](https://ex29ragpdfchatbot-9wyrsmlhdxuwujnwaqguvf.streamlit.app/)
+[DEPLOYED_LINK](https://ex29ragpdfchatbot-n37wewkhdjodluxcc3g2yg.streamlit.app/)
