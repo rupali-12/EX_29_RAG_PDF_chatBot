@@ -13,7 +13,7 @@ import os
 import streamlit as st
 
 
-# Set up embeddings
+# Set up embedding
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # Set up Streamlit
